@@ -1,0 +1,5 @@
+@-moz-document domain("twitch.tv") {
+div.chat-scrollable-area__message-container > div.chat-line__status {
+    display: none !important;
+}
+}
